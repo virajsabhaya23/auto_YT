@@ -3,3 +3,4 @@ faiss-cpu
 youtube-transcript-api
 validators
 openai
+tiktoken
