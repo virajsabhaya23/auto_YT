@@ -1,5 +1,4 @@
 langchain
-faiss
 faiss-cpu
 youtube-transcript-api
 validators
